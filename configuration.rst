@@ -284,6 +284,9 @@ log-level
       # All the "warning" level events plus all requests (every status code) are logged
       log-level  "info"
 
+
+  Because currently there's no buffering for logging, the levels with minimal logging(``crit/error``) will increase throughput.
+
 .. _openapi-mode:
 
 openapi-mode
