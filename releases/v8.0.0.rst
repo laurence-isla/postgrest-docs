@@ -72,9 +72,6 @@ Fixed
 * Removed single column restriction to allow composite foreign keys in join tables.
   |br| -- `@goteguru <https://github.com/goteguru>`_
 
-* Fix how the PostgREST version is shown in the help text when the .git directory is not available.
-  |br| -- `@monacoremo <https://github.com/monacoremo>`_
-
 * Fix expired JWTs starting an empty transaction on the db.
   |br| -- `@steve-chavez <https://github.com/steve-chavez>`_
 
@@ -148,6 +145,8 @@ Changed
 Thanks
 ------
 
+This release was made possible thanks to:
+
 .. image:: ../_static/cybertec-new.png
   :target: https://www.cybertec-postgresql.com/en/?utm_source=postgrest.org&utm_medium=referral&utm_campaign=postgrest
   :width:  13em
@@ -172,10 +171,10 @@ Thanks
   :target: https://oblivious.ai/?utm_source=sponsor&utm_campaign=postgrest
   :width:  13em
 
-* `Daniel Babiak <https://github.com/dbabiak>`_
 * Evans Fernandes
 * `Jan Sommer <https://github.com/nerfpops>`_
 * `Franz Gusenbauer <https://www.igutech.at/>`_
+* `Daniel Babiak <https://github.com/dbabiak>`_
 * Tsingson Qin
 * Michel Pelletier
 * Jay Hannah
