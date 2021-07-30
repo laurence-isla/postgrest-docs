@@ -145,7 +145,7 @@ Changed
 Thanks
 ------
 
-This release was made possible thanks to:
+The `PostgREST team <https://github.com/orgs/PostgREST/people>`_ thanks the following sponsors for making this release possible:
 
 .. container:: image-container
 
