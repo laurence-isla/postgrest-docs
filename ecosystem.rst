@@ -36,6 +36,8 @@ Example Apps
 * `ng-admin-postgrest <https://github.com/marmelab/ng-admin-postgrest>`_ - automatic database admin panel
 * `pgrst-dev-setup <https://github.com/Qu4tro/pgrst-dev-setup>`_ - docker-compose and tmuxp setup for experimentation.
 * `postgres-postgrest-cloudflared-example <https://github.com/cloudflare/postgres-postgrest-cloudflared-example>`_ - docker-compose setup exposing PostgREST using cloudfared
+* `postgrest (helm chart) <https://github.com/jbkarle/postgrest>`_ - helm chart with a demo database for dev/test purposes
+* `postgrest (helm chart) <https://github.com/cloudstark/helm-charts/tree/master/postgrest>`_ - helm chart to deploy PostgREST to the cluster via a Deployment and Service
 * `postgrest-demo <https://github.com/SMRxT/postgrest-demo>`_ - multi-tenant logging system
 * `postgrest-example <https://github.com/begriffs/postgrest-example>`_ - sqitch versioning for API
 * `postgrest-sessions-example <https://github.com/monacoremo/postgrest-sessions-example>`_ - example for cookie-based sessions
