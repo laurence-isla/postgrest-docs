@@ -36,8 +36,6 @@ Example Apps
 * `ng-admin-postgrest <https://github.com/marmelab/ng-admin-postgrest>`_ - automatic database admin panel
 * `pgrst-dev-setup <https://github.com/Qu4tro/pgrst-dev-setup>`_ - docker-compose and tmuxp setup for experimentation.
 * `postgres-postgrest-cloudflared-example <https://github.com/cloudflare/postgres-postgrest-cloudflared-example>`_ - docker-compose setup exposing PostgREST using cloudfared
-* `postgrest (helm chart) <https://github.com/jbkarle/postgrest>`_ - helm chart with a demo database for development and test purposes
-* `postgrest (helm chart) <https://github.com/cloudstark/helm-charts/tree/master/postgrest>`_ - helm chart to deploy PostgREST to a Kubernetes cluster via a Deployment and Service
 * `postgrest-demo <https://github.com/SMRxT/postgrest-demo>`_ - multi-tenant logging system
 * `postgrest-example <https://github.com/begriffs/postgrest-example>`_ - sqitch versioning for API
 * `postgrest-sessions-example <https://github.com/monacoremo/postgrest-sessions-example>`_ - example for cookie-based sessions
@@ -48,6 +46,14 @@ Example Apps
 * `PostGUI <https://github.com/priyank-purohit/PostGUI>`_ - React Material UI admin panel
 * `prospector <https://github.com/sfcta/prospector>`_ - data warehouse and visualization platform
 * `svelte-postgrest-template <https://github.com/guyromm/svelte-postgrest-template>`_ - Svelte/SvelteKit, PostgREST, EveryLayout and social auth
+
+.. _dev_ops:
+
+DevOps
+------
+
+* `jbkarle/postgrest <https://github.com/jbkarle/postgrest>`_ - helm chart with a demo database for development and test purposes
+* `cloudstark/helm-charts <https://github.com/cloudstark/helm-charts/tree/master/postgrest>`_ - helm chart to deploy PostgREST to a Kubernetes cluster via a Deployment and Service
 
 .. _eco_external_notification:
 
